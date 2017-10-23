@@ -21,7 +21,7 @@ As stated in th project description, from the project top directory:
 ## Results
 As it can be seen in the next figures, ```px, py, vx, vy``` output coordinates have an **RMSE <= [.09, .10, 0.40, 0.30]** when using the file: _obj_pose-laser-radar-synthetic-input.txt_ which is the same data file the simulator uses for Dataset 1.
 
-![Alt text](/images/UKF_RMSE.png?raw=true "RMSE for Dataset 1")
+![Alt text](/images/UKF_RMSE.jpg?raw=true "RMSE for Dataset 1")
 
 
 As it can be seen, the RMSE result meets specifications.
